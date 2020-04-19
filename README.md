@@ -4,7 +4,7 @@
 
 2)Create a database with the name "registration".
 
-3)Create a table with the name "users" and it should contain 4 columns (id,username,email,password).
+3)Create a table with the name "person" and it should contain 4 columns (id,username,email,password).
                                              
                                              
                                              [OR]
