@@ -10,7 +10,7 @@
                                              [OR]
 Run the code below in your sql shell for creation of table:
 
-  CREATE TABLE `users` (
+  CREATE TABLE `person` (
               `username` varchar(100) NOT NULL,
               `email` varchar(100) NOT NULL,
               `password` varchar(100) NOT NULL
